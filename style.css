@@ -455,6 +455,9 @@
   .below-img img {
     width: 190px;
   }
+  .central-div{
+    padding: 0;
+  }
 }
 @media screen and (max-width: 405px) {
   .below-img img {
