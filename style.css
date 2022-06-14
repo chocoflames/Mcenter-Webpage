@@ -263,6 +263,7 @@
 .fieldset {
   display: flex;
   margin: 10px;
+  align-items: center;
 }
 .set h2 {
   text-align: center;
