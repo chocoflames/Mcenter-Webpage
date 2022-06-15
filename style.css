@@ -456,7 +456,7 @@
   .below-img img {
     width: 190px;
   }
-  .central-div{
+  .central-div {
     padding-top: 0;
   }
 }
@@ -467,6 +467,14 @@
   .divly-img {
     display: flex;
     flex-direction: column;
+  }
+}
+@media screen and (max-width: 380px) {
+  .menu-text{
+    padding-top: 20px;
+  }
+  .menu-wrap{
+    padding-top: 20px;
   }
 }
 @media screen and (max-width: 272px) {
