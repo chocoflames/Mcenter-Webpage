@@ -471,10 +471,13 @@
 }
 @media screen and (max-width: 380px) {
   .menu-text{
-    padding-top: 20px;
+    padding-top: 30px;
   }
   .menu-wrap{
     padding-top: 20px;
+  }
+  .menu-wrap img{
+    padding-top: 40px;
   }
 }
 @media screen and (max-width: 272px) {
